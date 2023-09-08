@@ -1,0 +1,23 @@
+# Ignore pycache directory
+__pycache__/
+
+# ignore html files
+*.html
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore optimized Python files
+*.pyo
+
+# Ignore the virtual environment directory (if applicable)
+venv/
+
+# Ignore eps files
+*.eps
+
+# Ignore editor or IDE specific files and directories
+.idea/
+.vscode/
+*.sublime-*
+*.swp
